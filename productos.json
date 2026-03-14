@@ -1,0 +1,449 @@
+[
+  {
+    "id": 1,
+    "nombre": "Teclado Mecánico Redragon K552",
+    "precio": "36.99",
+    "precioOriginal": "38.99",
+    "imagen": "https://m.media-amazon.com/images/I/71FSIp+tDNL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4s6IsmD",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Gaming HyperX Pulsefire",
+    "precio": "29.99",
+    "precioOriginal": "79.99",
+    "imagen": "https://m.media-amazon.com/images/I/61EFo2DvtSL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "link": "https://amzn.to/3Njmjw",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 3,
+    "nombre": "Monitor LG 24G411A-B Monitor de juegos Ultragear Full HD (1920 x 1080)",
+    "precio": "99.99",
+    "precioOriginal": "149.99",
+    "imagen": "https://m.media-amazon.com/images/I/710ykhVHmNL._AC_SX466_.jpg",
+    "link": "https://amzn.to/3Pb2yxw",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 4,
+    "nombre": "Silla de oficina ergonómica, soporte lumbar ajustable y reposacabezas",
+    "precio": "89.99",
+    "precioOriginal": "99.99",
+    "imagen": "https://m.media-amazon.com/images/I/71nrj7vjSBL._AC_SX679_.jpg",
+    "link": "https://amzn.to/47IeCg0",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 5,
+    "nombre": "GAMDIAS Caja de computadora ATX de torre media blanca",
+    "precio": "44.99",
+    "precioOriginal": "59.99",
+    "imagen": "https://m.media-amazon.com/images/I/71OwJlxlb0L._AC_SX466_.jpg",
+    "link": "https://amzn.to/3NjGfVW",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 6,
+    "nombre": "Huuger Escritorio eléctrico grande de pie de 55 x 28 pulgadas",
+    "precio": "139.97",
+    "precioOriginal": "179.99",
+    "imagen": "https://m.media-amazon.com/images/I/715bJHtMLmL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4uv85zg",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 7,
+    "nombre": "Logitech Ratón para juegos G502 Hero",
+    "precio": "39.99",
+    "imagen": "https://m.media-amazon.com/images/I/51PNyeVCKZL._AC_SY879_.jpg",
+    "link": "https://amzn.to/4lvotf4",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 8,
+    "nombre": "AULA Teclado mecánico inalámbrico F75 Pro, 75% teclado personalizado",
+    "precio": "68.99",
+    "precioOriginal": "79.99",
+    "imagen": "https://m.media-amazon.com/images/I/61MC8BK0w0L._AC_SX466_.jpg",
+    "link": "https://amzn.to/4su00tn",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 9,
+    "nombre": "TEAMGROUP T-Force Delta RGB DDR4 16GB (2x8GB) 3600MHz",
+    "precio": "158.99",
+    "imagen": "https://m.media-amazon.com/images/I/71yyY+Y29WL._AC_SX466_PIbundle-2,TopRight,0,0_SH20_.jpg",
+    "link": "https://amzn.to/4rx7Lx9",
+    "categoria": "clase-tech"
+  },
+  {
+    "id": 10,
+    "nombre": "ASUS Prime Radeon™ RX 9070 XT OC Edition - Tarjeta gráfica ",
+    "precio": "799.99",
+    "imagen": "https://m.media-amazon.com/images/I/81huTBuLV+L._AC_SX466_.jpg",
+    "link": "https://amzn.to/4bJpmgA",
+    "categoria": "clase-tech"
+  },
+  {
+    "id": 11,
+    "nombre": "AMD Ryzen 5 5500 - Procesador para computadora de escritorio desbloqueado de 6 núcleos y 12 hilos con enfriador Wraith Stealth",
+    "precio": "85.00",
+    "precioOriginal": "159.00",
+    "imagen": "https://m.media-amazon.com/images/I/51So7GoGvxL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4sMtp1r",
+    "categoria": "clase-tech"
+  },
+  {
+    "id": 12,
+    "nombre": "KSIPZE Tira de luces LED RGB de 100 pies, sincronización de música",
+    "precio": "9.99",
+    "precioOriginal": "13.89",
+    "imagen": "https://m.media-amazon.com/images/I/71lntIT6FfL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4lxKbz1",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 13,
+    "nombre": "Luces LED para habitación de 200 pies (2 rollos de 100 pies), tira de luces LED inteligentes",
+    "precio": "15.99",
+    "precioOriginal": "16.99",
+    "imagen": "https://m.media-amazon.com/images/I/81Y0+1tFDTL._AC_SX679_.jpg",
+    "link": "https://amzn.to/47vFkbI",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 14,
+    "nombre": "DAYBETTER Tira de luces LED de 130 pies para dormitorio, escritorio, habitación interior,",
+    "precio": "11.99",
+    "precioOriginal": "14.99",
+    "imagen": "https://m.media-amazon.com/images/I/81Pru4iSlsL._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg",
+    "link": "https://amzn.to/4lr4LAV",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 15,
+    "nombre": "Amzfast Monitor de juegos de 27 pulgadas y 240 Hz, panel FHD Fast VA Panel 4000:1 de contraste con altavoces",
+    "precio": "139.99",
+    "precioOriginal": "163.59",
+    "imagen": "https://m.media-amazon.com/images/I/717P6X963IL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4sKI4u2",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 16,
+    "nombre": "Ajazz AK820 75% Teclado mecánico para juegos con junta de cableado con botón de volumen",
+    "precio": "39.68",
+    "precioOriginal": "48.99",
+    "imagen": "https://m.media-amazon.com/images/I/612fnwTcoDL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4s5fsM4",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 17,
+    "nombre": "Silla de juegos, silla ergonómica para juegos de computadora, soporte de carga de 400 libras",
+    "precio": "142.49",
+    "precioOriginal": "149.99",
+    "imagen": "https://m.media-amazon.com/images/I/71EswlUWumL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4uv6RE8",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 18,
+    "nombre": "Razer DeathAdder Essential Gaming Mouse: sensor óptico de 6400 DPI - 5 botones programables",
+    "precio": "19.99",
+    "precioOriginal": "29.99",
+    "imagen": "https://m.media-amazon.com/images/I/8189uwDnMkL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4dhmSaw",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 19,
+    "nombre": "Aheaplus Escritorio para juegos en forma de L con tomas de corriente y luces LED",
+    "precio": "119.99",
+    "precioOriginal": "149.99",
+    "imagen": "https://m.media-amazon.com/images/I/81GoCJ0MAzL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4bItHk9",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 20,
+    "nombre": "PC CASE 7 PWM ARGB Ventiladores preinstalados, funda de PC para juegos de media torre",
+    "precio": "75.99",
+    "precioOriginal": "79.99",
+    "imagen": "https://m.media-amazon.com/images/I/81tyHAnsvPL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4sevJ1t",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 21,
+    "nombre": "Cargador rápido para iPhone, 3+3 unidades, cargador de pared USB C de 20 W ",
+    "precio": "23.90",
+    "precioOriginal": "26.98",
+    "imagen": "https://m.media-amazon.com/images/I/616srsmYt5L._AC_SX679_.jpg",
+    "link": "https://amzn.to/4cHsLO2",
+    "categoria": "clase-tech"
+  },
+  {
+    "id": 22,
+    "nombre": "Speedo - Gorro de natación, silicona",
+    "precio": "13.00",
+    "precioOriginal": "18.00",
+    "imagen": "https://m.media-amazon.com/images/I/510YGPJDS+L._AC_SX679_.jpg",
+    "link": "https://amzn.to/4bHrwgF",
+    "categoria": "clase-deportes"
+  },
+  {
+    "id": 23,
+    "nombre": "Tapones para los oídos de natación para adultos, 3 pares de tapones impermeables reutilizables de silicona para nadar",
+    "precio": "9.98",
+    "precioOriginal": "0.00",
+    "imagen": "https://m.media-amazon.com/images/I/61r+z47uB3L._AC_SX679_PIbundle-3,TopRight,0,0_SH20_.jpg",
+    "link": "https://amzn.to/4bbJzvv",
+    "categoria": "clase-deportes"
+  },
+  {
+    "id": 24,
+    "nombre": "SPIDERCASE Funda magnética para Samsung Galaxy S25 Ultra, con 3 formas de soporte, protección contra caídas de grado militar",
+    "precio": "18.99",
+    "precioOriginal": "0.00",
+    "imagen": "https://m.media-amazon.com/images/I/71R7TNlNSyL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4uvEm98",
+    "categoria": "clase-tech"
+  },
+  {
+    "id": 25,
+    "nombre": "TORRAS - Funda magnética  para Samsung Galaxy S24 Ultra, magnetismo potente de 18 N",
+    "precio": "18.73",
+    "precioOriginal": "22.03",
+    "imagen": "https://m.media-amazon.com/images/I/61mLd0fMhaL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4dl1pxh",
+    "categoria": "clase-tech"
+  },
+  {
+    "id": 26,
+    "nombre": "WAWAWEWA El balón de baloncesto oficial Silent tamaño 7 (29.5 pulgadas) ",
+    "precio": "32.99",
+    "precioOriginal": "47.69",
+    "imagen": "https://m.media-amazon.com/images/I/81o7jyE5w2L._AC_SX466_.jpg",
+    "link": "https://amzn.to/4rpFHeZ",
+    "categoria": "clase-deportes"
+  },
+  {
+    "id": 27,
+    "nombre": "Organizador de cubiertos expandible extragrande",
+    "precio": "6.99",
+    "precioOriginal": "0.00",
+    "imagen": "https://m.media-amazon.com/images/I/711fUeua6GL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4bkZBSp",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 28,
+    "nombre": "Acer Nitro V 16S AI portátil para juegos | Procesador AMD Ryzen 7 260",
+    "precio": "1,199.99",
+    "precioOriginal": "1,299.99",
+    "imagen": "https://m.media-amazon.com/images/I/71HHF2jUnpL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4rsBxDn",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 29,
+    "nombre": "Corsair Vengeance i7500 Computadora para videojuegos – CPU Intel Core i9-14900KF refrigerado por líquido ",
+    "precio": "3,199.99",
+    "precioOriginal": "3,699.99",
+    "imagen": "https://m.media-amazon.com/images/I/718wSaTw2YL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4cIM4Xh",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 30,
+    "nombre": "Acer - Laptop Nitro V para juegos, procesador Intel Core i5-13420H, GPU NVIDIA GeForce RTX 4050",
+    "precio": "649.99",
+    "precioOriginal": "749.99",
+    "imagen": "https://m.media-amazon.com/images/I/71gXelI8upL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4br9I8v",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 31,
+    "nombre": "Huuger Escritorio para juegos en forma de L con tomas de corriente y luces LED",
+    "precio": "119.99",
+    "precioOriginal": "169.99",
+    "imagen": "https://m.media-amazon.com/images/I/719Dcvhf61L._AC_SX679_.jpg",
+    "link": "https://amzn.to/419mfbC",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 32,
+    "nombre": "HyperX Cloud II - Auriculares para juegos, sonido envolvente 7.1, almohadillas de espuma viscoelástica",
+    "precio": "49.99",
+    "precioOriginal": "79.99",
+    "imagen": "https://m.media-amazon.com/images/I/71ltsViEA8L._AC_SX679_.jpg",
+    "link": "https://amzn.to/3P81ESt",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 33,
+    "nombre": "Cuerda de saltar sin enredos de velocidad rápida, cable de salto con rodamientos de bolas para mujeres, hombres y niños",
+    "precio": "8.99",
+    "precioOriginal": "9.99",
+    "imagen": "https://m.media-amazon.com/images/I/71wm42EtoNL._AC_SX466_.jpg",
+    "link": "https://amzn.to/413Tm0u",
+    "categoria": "clase-deportes"
+  },
+  {
+    "id": 34,
+    "nombre": "Soporte de llaves para pared, llavero decorativo y soporte para correo con estante",
+    "precio": "12.99",
+    "precioOriginal": "24.99",
+    "imagen": "https://m.media-amazon.com/images/I/61sHXVsbXAL._AC_SX679_.jpg",
+    "link": "https://amzn.to/47ANcbZ",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 35,
+    "nombre": "Soporte para toallas de papel - Autoadhesivo o con perforación",
+    "precio": "7.99",
+    "precioOriginal": "0.00",
+    "imagen": "https://m.media-amazon.com/images/I/71SdoAGoQFL._AC_SX679_.jpg",
+    "link": "https://amzn.to/47KGOil",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 36,
+    "nombre": "O-Cedar EasyWring - Sistema de limpieza de suelos con balde y fregona giratoria de microfibra ",
+    "precio": "44.96",
+    "precioOriginal": "0.00",
+    "imagen": "https://m.media-amazon.com/images/I/81ymYkfT+WL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4scYhs9",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 37,
+    "nombre": "Juego de tazones para mezclar con tapas herméticas, 26 piezas de tazones de acero inoxidable",
+    "precio": "35.99",
+    "precioOriginal": "45.99",
+    "imagen": "https://m.media-amazon.com/images/I/71XR3lo00cL._AC_SX679_.jpg",
+    "link": "https://amzn.to/410XEG2",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 38,
+    "nombre": "Scrub Daddy Scrub Mommy Sponges - Esponjas de limpieza para lavar platos ",
+    "precio": "13.99",
+    "precioOriginal": "0.00",
+    "imagen": "https://m.media-amazon.com/images/I/71kiOOs1MGL._AC_SY879_.jpg",
+    "link": "https://amzn.to/4uu2Lfj",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 39,
+    "nombre": "Chefman Obliterator - Licuadora de encimera de 48 onzas para batidos",
+    "precio": "89.95",
+    "precioOriginal": "159.99",
+    "imagen": "https://m.media-amazon.com/images/I/71gIeyQxeQL._AC_SX679_.jpg",
+    "link": "https://amzn.to/3PBVgmx",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 40,
+    "nombre": "El juego de 8 pelotas deportivas incluye baloncesto, fútbol, voleibol ",
+    "precio": "64.39",
+    "precioOriginal": "77.99",
+    "imagen": "https://m.media-amazon.com/images/I/81vEsEe0k+L._AC_SX466_PIcountsize-8,TopRight,0,0_SH20_.jpg",
+    "link": "https://amzn.to/4uzyImM",
+    "categoria": "clase-deportes"
+  },
+  {
+    "id": 41,
+    "nombre": "Licuadora profesional Ninja BL610, Negro",
+    "precio": "89.99",
+    "precioOriginal": "109.99",
+    "imagen": "https://m.media-amazon.com/images/I/61DvtaqAWML._AC_SX679_.jpg",
+    "link": "https://amzn.to/4boF3bB",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 42,
+    "nombre": "VAL CUCINA - Horno tostador retro con calefacción infrarroja, horno de convección extragrande de encimera 10 en 1",
+    "precio": "179.99",
+    "precioOriginal": "199.99",
+    "imagen": "https://m.media-amazon.com/images/I/61iyYFvNqLL._AC_SX679_.jpg",
+    "link": "https://amzn.to/3NyIBQR",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 43,
+    "nombre": "Chefman Horno microondas para encimera de 0.7 pies cúbicos, 700 vatios con 10 niveles de potencia",
+    "precio": "68.96",
+    "precioOriginal": "99.99",
+    "imagen": "https://m.media-amazon.com/images/I/61Xfgx37IBL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4sKVaYe",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 44,
+    "nombre": "COSTWAY Lavadora portátil, lavadora de lavandería de 26 libras de capacidad de 26 libras",
+    "precio": "189.88",
+    "precioOriginal": "0.00",
+    "imagen": "https://m.media-amazon.com/images/I/61r2DP-L7WL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4s5rTHK",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 45,
+    "nombre": "H.VERSAILTEX Juego de 2 tapetes de baño, de felpilla, extragruesos",
+    "precio": "24.99",
+    "precioOriginal": "31.99",
+    "imagen": "https://m.media-amazon.com/images/I/71CszaXX0eL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4rHmJks",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 46,
+    "nombre": "OLANLY 2x3 Alfombra lavable a máquina pequeña para mesita de noche, alfombra suave y esponjosa para entrada",
+    "precio": "15.99",
+    "precioOriginal": "19.99",
+    "imagen": "https://m.media-amazon.com/images/I/91DPCQ1NENL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4bHqf9w",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 47,
+    "nombre": "Decoración de pared para baño, arte de pared enmarcado en blanco y negro para baño",
+    "precio": "12.99",
+    "precioOriginal": "0.00",
+    "imagen": "https://m.media-amazon.com/images/I/61pmO0bNWbL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4bbE1Ba",
+    "categoria": "clase-hogar"
+  },  
+  {
+    "id": 48,
+    "nombre": "VELENTI Soporte de rollo de papel higiénico con diseño de oveja",
+    "precio": "12.99",
+    "precioOriginal": "0.00",
+    "imagen": "https://m.media-amazon.com/images/I/71t53dRSDpL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4sFxEM5",
+    "categoria": "clase-hogar"
+  },
+  {
+    "id": 49,
+    "nombre": "Balón de fútbol de tamaño 2/3/4/5 con bomba y bolsa",
+    "precio": "15.99",
+    "precioOriginal": "17.99",
+    "imagen": "https://m.media-amazon.com/images/I/713Aj2hInSL._AC_SX466_.jpg",
+    "link": "https://amzn.to/3PBmEkE",
+    "categoria": "clase-deportes"
+  },
+  {
+    "id": 50,
+    "nombre": "Nerf Juego de mini pelotas deportivas de espuma – fútbol de espuma, pelota de fútbol + baloncesto suave juguete deportivo para niños",
+    "precio": "19.99",
+    "precioOriginal": "29.99",
+    "imagen": "https://m.media-amazon.com/images/I/81aAqMnn46L._AC_SX466_.jpg",
+    "link": "https://amzn.to/4cIRe5B",
+    "categoria": "clase-deportes"
+  }
+]

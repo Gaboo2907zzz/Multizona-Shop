@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Multi Zona Shop | Las Mejores Ofertas de Amazon</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+
+<header class="relative overflow-hidden bg-white pt-16 pb-32">
+    <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full z-0">
+        <div class="absolute top-[-10%] left-[-10%] w-[40%] h-[60%] bg-blue-50 rounded-full blur-3xl opacity-50"></div>
+        <div class="absolute bottom-[10%] right-[-5%] w-[30%] h-[50%] bg-indigo-50 rounded-full blur-3xl opacity-50"></div>
+    </div>
+
+    <div class="relative z-10 max-w-[1400px] mx-auto px-4 text-center">
+        <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-blue-50 border border-blue-100 text-blue-700 text-sm font-bold mb-8 animate-bounce">
+            <i class="fas fa-check-circle"></i>
+            Selección verificada de Amazon 2026
+        </div>
+
+        <div class="text-sm font-black tracking-[0.2em] text-gray-400 uppercase mb-4">
+            Bienvenido a <span class="text-blue-600">Multi Zona Shop</span>
+        </div>
+        
+        <h1 class="text-5xl md:text-8xl font-black tracking-tight text-gray-900 mb-8 leading-[1.1]">
+            Tu portal de <br>
+            <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-500">
+                compras inteligente.
+            </span>
+        </h1>
+        
+        <p class="max-w-2xl text-xl md:text-2xl text-gray-500 mx-auto leading-relaxed mb-10">
+            Encuentra desde el setup de tus sueños hasta artículos para toda la familia, curados por expertos.
+        </p>
+
+        <div class="flex justify-center">
+            <a href="#productos" class="group relative inline-flex items-center justify-center px-10 py-4 font-bold text-white transition-all duration-200 bg-blue-600 font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900 shadow-[0_10px_20px_rgba(37,_99,_235,_0.3)] hover:shadow-[0_20px_40px_rgba(37,_99,_235,_0.4)] transform hover:-translate-y-1">
+                Explorar Catálogo
+                <i class="fas fa-arrow-right ml-3 text-sm group-hover:translate-x-1 transition-transform"></i>
+            </a>
+        </div>
+    </div>
+</header>
+    
+   <section class="py-20 bg-gray-50/50 border-t border-b border-gray-100 relative mt-[-60px] z-10 rounded-t-[50px] shadow-inner">
+        <div class="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-10 text-center bg-white p-12 rounded-3xl shadow-xl border border-gray-100">
+                
+                <div class="flex flex-col items-center group">
+                    <div class="w-16 h-16 bg-blue-100 rounded-2xl flex items-center justify-center mb-6 shadow-md transition-all group-hover:scale-110 group-hover:bg-blue-600">
+                        <i class="fas fa-rocket text-4xl text-blue-600 transition-colors group-hover:text-white"></i>
+                    </div>
+                    <h3 class="text-2xl font-black text-gray-900 mb-2 tracking-tight">Rápido</h3>
+                    <p class="text-base text-gray-600 max-w-xs mx-auto">
+                        Encuentra exactamente lo que buscas en segundos con nuestro buscador inteligente.
+                    </p>
+                </div>
+
+                <div class="flex flex-col items-center group">
+                    <div class="w-16 h-16 bg-green-100 rounded-2xl flex items-center justify-center mb-6 shadow-md transition-all group-hover:scale-110 group-hover:bg-green-600">
+                        <i class="fas fa-shield-alt text-4xl text-green-600 transition-colors group-hover:text-white"></i>
+                    </div>
+                    <h3 class="text-2xl font-black text-gray-900 mb-2 tracking-tight">Seguro</h3>
+                    <p class="text-base text-gray-600 max-w-xs mx-auto">
+                        Seleccionamos solo los productos mejor calificados y de tiendas confiables en Amazon.
+                    </p>
+                </div>
+
+                <div class="flex flex-col items-center group">
+                    <div class="w-16 h-16 bg-orange-100 rounded-2xl flex items-center justify-center mb-6 shadow-md transition-all group-hover:scale-110 group-hover:bg-orange-600">
+                        <i class="fas fa-crown text-4xl text-orange-600 transition-colors group-hover:text-white"></i>
+                    </div>
+                    <h3 class="text-2xl font-black text-gray-900 mb-2 tracking-tight">Premium</h3>
+                    <p class="text-base text-gray-600 max-w-xs mx-auto">
+                        La mejor calidad de Amazon para ti, tu familia y tu pasión.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <section id="productos" class="py-16 bg-gray-50">
+    <div class="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <h2 class="text-2xl font-bold text-gray-800 mb-8 border-l-4 border-blue-600 pl-4">Explora Nuestro Catálogo</h2>
+
+        <div class="max-w-md mx-auto mb-8 px-4">
+    <div class="relative">
+        <input 
+            type="text" 
+            id="buscador" 
+            onkeyup="buscarProducto()" 
+            placeholder="Buscar por nombre (ej: Redragon, RTX, Silla...)" 
+            class="w-full pl-10 pr-4 py-3 border-2 border-gray-200 rounded-xl focus:border-blue-500 focus:outline-none transition-colors shadow-sm"
+        >
+        <div class="absolute left-3 top-3.5 text-gray-400">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+            </svg>
+        </div>
+    </div>
+</div>
+
+      <div class="flex flex-wrap gap-4 mb-10 justify-center px-4">
+    <button onclick="filtrar('todo', this)" class="bg-gray-800 text-white px-8 py-2 rounded-full hover:scale-105 transition-all shadow-md font-bold">Todo</button>
+    
+    <button onclick="filtrar('clase-gamer', this)" class="bg-blue-50 text-blue-700 border border-blue-200 px-6 py-2 rounded-full hover:bg-blue-600 hover:text-white transition-all shadow-sm font-semibold">
+        <i class="fas fa-gamepad mr-2"></i> Zona Gamer
+    </button>
+    
+    <button onclick="filtrar('clase-tech', this)" class="bg-indigo-50 text-indigo-700 border border-indigo-200 px-6 py-2 rounded-full hover:bg-indigo-600 hover:text-white transition-all shadow-sm font-semibold">
+        <i class="fas fa-mobile-alt mr-2"></i> Tecnología
+    </button>
+    
+    <button onclick="filtrar('clase-deportes', this)" class="bg-cyan-50 text-cyan-700 border border-cyan-200 px-6 py-2 rounded-full hover:bg-cyan-500 hover:text-white transition-all shadow-md font-bold">
+        <i class="fas fa-swimmer mr-2"></i> Deportes
+    </button>
+    
+    <button onclick="filtrar('clase-hogar', this)" class="bg-orange-50 text-orange-700 border border-orange-200 px-6 py-2 rounded-full hover:bg-orange-500 hover:text-white transition-all shadow-sm font-semibold">
+        <i class="fas fa-home mr-2"></i> Hogar
+    </button>
+
+    <button onclick="filtrar('clase-varios', this)" class="bg-gray-100 text-gray-600 border border-gray-200 px-6 py-2 rounded-full hover:bg-gray-500 hover:text-white transition-all shadow-sm font-semibold">
+        <i class="fas fa-plus mr-2"></i> Otros
+    </button>
+</div>
+
+       <div class="max-w-[1400px] mx-auto px-4"> 
+    <div id="contenedor-productos" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 mb-16">
+        </div>
+</div>
+<div id="contenedor-productos" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
+            </div>
+
+</section>
+    <section id="productos" class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            
+    </section>
+
+    <footer class="bg-gray-900 text-white py-12 mt-20">
+        <div class="max-w-[1400px] mx-auto px-4 text-center">
+            <div class="text-2xl font-black mb-4 tracking-tighter">
+                MULTI <span class="text-blue-400">ZONA</span> SHOP
+            </div>
+            <p class="text-gray-400 max-w-md mx-auto mb-6">
+                Tu selección experta de productos en Amazon. Calidad y confianza para cada rincón de tu vida.
+            </p>
+            <hr class="border-gray-800 mb-6 w-24 mx-auto">
+            <p class="text-gray-500 text-sm">&copy; 2026 Multi Zona Shop. Todos los derechos reservados.</p>
+            <p class="text-gray-600 text-[10px] mt-4 uppercase tracking-widest">
+                Participamos en el Programa de Afiliados de Amazon.
+            </p>
+        </div>
+    </footer>
+<script>
+// 1. Cargar productos desde el JSON al abrir la página
+async function cargarProductos() {
+    try {
+        const respuesta = await fetch('productos.json');
+        const productos = await respuesta.json();
+        window.todosLosProductos = productos; // Guardamos una copia global
+        mostrarProductos(productos);
+    } catch (error) {
+        console.error("Error cargando el JSON:", error);
+    }
+}
+
+// 2. Función para dibujar los cuadros en pantalla
+function mostrarProductos(lista) {
+    const contenedor = document.getElementById('contenedor-productos');
+    contenedor.innerHTML = ""; 
+
+    lista.forEach(p => {
+        const card = `
+            <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:scale-105 transition-all duration-300 border border-gray-100 flex flex-col h-full ${p.categoria}">
+                <div class="w-full h-52 bg-white p-4 flex items-center justify-center">
+                    <img class="max-w-full max-h-full object-contain" src="${p.imagen}" alt="${p.nombre}">
+                </div>
+                
+                <div class="p-5 flex flex-col flex-grow">
+                    <h3 class="text-md font-bold text-gray-900 mb-2 overflow-hidden" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; min-height: 3rem;">
+                        ${p.nombre}
+                    </h3>
+                    
+                   <div class="flex-grow">
+    <p class="text-green-600 font-bold text-xl">
+        $${p.precio}
+        ${p.precioOriginal && p.precioOriginal !== "0.00" && p.precioOriginal !== "" 
+            ? `<span class="text-gray-400 line-through text-sm font-normal ml-2">$${p.precioOriginal}</span>` 
+            : ''
+        }
+    </p>
+</div>
+
+                    <a href="${p.link}" target="_blank" class="mt-4 block w-full text-center bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 rounded-lg shadow-md">
+                        Ver en Amazon
+                    </a>
+                </div>
+            </div>
+        `;
+        contenedor.innerHTML += card;
+    });
+}
+
+
+// 3. Función de Filtro mejorada
+function filtrar(categoria, botonTocado) {
+    document.getElementById('buscador').value = ""; // Esto limpia el buscador al filtrar por categoría
+    const divs = document.querySelectorAll('#contenedor-productos > div');
+    
+    divs.forEach(div => {
+        if (categoria === 'todo') {
+            div.style.display = 'block';
+        } else {
+            div.style.display = div.classList.contains(categoria) ? 'block' : 'none';
+        }
+    });
+
+    // Cambiar color de botones
+    const botones = document.querySelectorAll('button[onclick^="filtrar"]');
+    botones.forEach(b => {
+        b.classList.remove('bg-gray-800', 'text-white');
+        b.classList.add('bg-gray-200', 'text-gray-800');
+    });
+    botonTocado.classList.remove('bg-gray-200', 'text-gray-800');
+    botonTocado.classList.add('bg-gray-800', 'text-white');
+}
+// 4. Función de Buscador 
+function buscarProducto() {
+    // 1. Capturamos lo que el usuario escribe
+    const textoUsuario = document.getElementById('buscador').value.toLowerCase().trim();
+    const productos = document.querySelectorAll('#contenedor-productos > div');
+
+    productos.forEach(producto => {
+        // 2. Buscamos el nombre exacto del H3 (el título)
+        const nombreProducto = producto.querySelector('h3').innerText.toLowerCase();
+        
+        // 3. Si el usuario no ha escrito nada, mostramos todo (o respetamos el filtro)
+        if (textoUsuario === "") {
+            producto.style.display = "flex"; 
+            return;
+        }
+
+        // 4. Lógica de comparación: Solo si el título contiene la palabra
+        if (nombreProducto.includes(textoUsuario)) {
+            producto.style.display = "flex";
+        } else {
+            producto.style.display = "none";
+        }
+    });
+}
+
+// Arrancar el sistema
+cargarProductos();
+</script>
+</body>
+</html>
