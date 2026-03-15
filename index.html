@@ -3,11 +3,95 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Multi Zona Shop | Las Mejores Ofertas de Amazon</title>
+   <title>  Multi Zona Shop | Las Mejores Ofertas de Amazon</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+    <style>
+  .btn-mode {
+    position: fixed; /* Esto hace que el botón flote */
+    top: 20px;       /* Distancia desde arriba */
+    right: 20px;     /* Distancia desde la derecha */
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 50px;
+    border: 2px solid #0071ce; 
+    background-color: #0071ce;
+    color: white;
+    font-weight: bold;
+    z-index: 9999;   /* Esto es CLAVE para que no se esconda */
+    transition: 0.3s;
+}
+
+/* Y esto es para que cambie de color cuando pasas el mouse */
+.btn-mode:hover {
+    background-color: #004f91;
+    border-color: #004f91;
+}
+
+/* 1. Fondo oscuro para casi todo */
+body.dark-mode, 
+body.dark-mode header, 
+body.dark-mode main, 
+body.dark-mode section, 
+body.dark-mode .bg-white {
+    background-color: #121212 !important;
+}
+
+/* 2. Nombres de productos y textos generales en BLANCO */
+body.dark-mode h1, 
+body.dark-mode h2, 
+body.dark-mode h3, /* Añadimos h3 por si los nombres son h3 */
+body.dark-mode p, 
+body.dark-mode span:not(.text-green-600) { /* Esto dice: blanco a todo EXCEPTO si tiene clase verde */
+    color: #ffffff !important;
+}
+
+/* 3. ¡EL RESCATE DEL VERDE! */
+/* Forzamos que los precios se mantengan verdes */
+body.dark-mode .text-green-600, 
+body.dark-mode [class*="text-green"] { 
+    color: #22c55e !important; /* Un verde vibrante que resalta en negro */
+    font-weight: bold;
+}
+
+/* 4. Las tarjetas un pelín más claras para que no desaparezcan */
+body.dark-mode .card, 
+body.dark-mode div.border {
+    background-color: #1e1e1e !important;
+    border-color: #333 !important;
+}
+
+/* 2. Forzamos que todos los textos sean blancos */
+body.dark-mode h1, 
+body.dark-mode h2, 
+body.dark-mode p, 
+body.dark-mode span,
+body.dark-mode a {
+    color: #ffffff !important;
+}
+
+/* 3. Ajuste para las tarjetas de productos (para que se distingan del fondo) */
+body.dark-mode .card, 
+body.dark-mode .product-item {
+    background-color: #1e1e1e !important;
+    border-color: #333 !important;
+}
+
+
+
+body.dark-mode .card img, 
+body.dark-mode .product-item img {
+    filter: brightness(0.8) contrast(1.1); /* Apaga un poco el brillo */
+    mix-blend-mode: multiply; /* Esto intenta mezclar el blanco con el fondo, pero es un poco "truquero" */
+}
+
+</style>
+
 </head>
-<body class="bg-gray-50 text-gray-800 font-sans">
+<body>
+
+<button id="dark-mode-toggle" class="btn-mode">🌙 Modo Oscuro</button>
 
 <header class="relative overflow-hidden bg-white pt-16 pb-32">
     <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full z-0">
@@ -156,6 +240,20 @@
             </p>
         </div>
     </footer>
+    <script>
+
+  const toggleBtn = document.getElementById('dark-mode-toggle');
+  
+  if(toggleBtn) {
+      console.log("¡El botón existe y el script lo encontró!");
+      toggleBtn.addEventListener('click', () => {
+          console.log("Hiciste clic en el botón");
+          document.body.classList.toggle('dark-mode');
+      });
+  } else {
+      console.log("Error: No encontré el botón con id 'dark-mode-toggle'");
+  }
+</script>
 <script>
 // 1. Cargar productos desde el JSON al abrir la página
 async function cargarProductos() {
@@ -256,6 +354,7 @@ function buscarProducto() {
 
 // Arrancar el sistema
 cargarProductos();
+
 </script>
 </body>
 </html>
