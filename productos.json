@@ -517,6 +517,107 @@
     "link": "https://amzn.to/4bj6UtK",
     "categoria": "clase-gamer"
   },
+  
+  {
+    "id": 58,
+    "nombre": "Dracaena.io Enfriador de CPU AIO de 4.724 in, control remoto ARGB, ventilador PWM ARGB silencioso, bomba de rodamiento hidráulico y radiador de aluminio, para Intel LGA1700/1200/115X/2011/2066 y AMD AM5/AM4/AM3/FM2 Ryzen, negro, ventilador gamer",
+    "precio": "35.99",
+    "precioOriginal": "39.99",
+    "imagen": "https://m.media-amazon.com/images/I/611puAFQJCL._SX522_.jpg",
+    "link": "https://amzn.to/3NOsZJ0",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 59,
+    "nombre": "DGG Teclado K60 61 teclas RGB retroiluminado 60% con cable, ergonómico impermeable, mini compacto, 60% de sensación mecánica, para PC, Mac, PS4, Xbox Gamer, tipógrafo, viajes",
+    "precio": "9.99",
+    "precioOriginal": "20.95",
+    "imagen": "https://m.media-amazon.com/images/I/71VAlCa7AFL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4lBIX5X",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 60,
+    "nombre": "Radeon RX 550 - Tarjeta gráfica de 4 GB, GDDR5 PCIE 3.0 de 128 bits para juegos de computadora, tarjeta de video de 1183 MHz con puertos HDMI/DP/DVI compatible con 4K, tarjeta grafica",
+    "precio": "104.99",
+    "precioOriginal": "00.00",
+    "imagen": "https://m.media-amazon.com/images/I/71wc+LcZVkL._AC_SX466_.jpg",
+    "link": "https://amzn.to/41cCrci",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 61,
+    "nombre": "AISURIX RX 580 - Tarjeta gráfica 2048SP, 8 GB, GDDR5, 256 bits, tarjeta de video para juegos de PC, 2XDP, HDMI, PCI Express 3.0 con parada de ventilador de congelación para computadora ",
+    "precio": "129.99",
+    "precioOriginal": "00.00",
+    "imagen": "https://m.media-amazon.com/images/I/61t4lrvNqcL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4rHgSv8",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 62,
+    "nombre": "ASUS Dual GeForce RTX™ 5060 8GB GDDR7 OC Edition (PCIe 5.0, 8GB GDDR7, DLSS 4, HDMI 2.1b, DisplayPort 2.1b, diseño de 2.5 ranuras, diseño de ventilador Axial-tech, tecnología 0dB y más) tarjeta gráfica",
+    "precio": "369.99",
+    "precioOriginal": "00.00",
+    "imagen": "https://m.media-amazon.com/images/I/81i5KcFKysL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4dxDOJZ",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 63,
+    "nombre": "ASUS Dual GeForce RTX™ 4060 V2 OC Edition (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, diseño de 2 ranuras, diseño de ventilador de tecnología axial, tecnología 0dB y más) tarjeta gráfica",
+    "precio": "329.99",
+    "precioOriginal": "00.00",
+    "imagen": "https://m.media-amazon.com/images/I/81O6t+EEjLL._AC_SX466_.jpg",
+    "link": "https://amzn.to/3PzcvoF",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 64,
+    "nombre": "ASRock AMD Radeon RX 6600 Challenger White tarjeta gráfica de 8GB GDDR6 con enfriamiento silencioso de 0dB, 128-bit, DisplayPort HDMI de 7680 x 4320, 14 Gbps, ventilador dual de 7nm ",
+    "precio": "219.99",
+    "precioOriginal": "00.00",
+    "imagen": "https://m.media-amazon.com/images/I/61gtuB3TYAL._AC_SX466_.jpg",
+    "link": "https://amzn.to/3PNEJfn",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 65,
+    "nombre": "ASUS Dual GeForce RTX™ 4070 Super EVO OC Edition 12GB GDDR6X (PCIe 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Diseño de 2.5 Ranuras, Diseño de Ventilador Axial-tech, Tecnología 0dB, y Más, tarjeta gráfica ",
+    "precio": "599.99",
+    "precioOriginal": "00.00",
+    "imagen": "https://m.media-amazon.com/images/I/81PChIf5pwL._AC_SX466_.jpg",
+    "link": "https://amzn.to/40DyoWl",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 66,
+    "nombre": "ASUS Tarjeta gráfica dual NVIDIA GeForce RTX 3050 6GB OC Edition Gaming - PCIe 4.0, memoria GDDR6 de 6 GB, HDMI 2.1, DisplayPort 1.4a, diseño de 2 ranuras, diseño de ventilador de tecnología axial, tarjeta gráfica ",
+    "precio": "239.99",
+    "precioOriginal": "00.00",
+    "imagen": "https://m.media-amazon.com/images/I/81mwcITtHBL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4bSMwRH",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 67,
+    "nombre": "ASRock AMD Radeon RX 7600 Challenger 8 GB OC GDDR6 DisplayPort HDMI 0dB Enfriamiento Silencioso Tarjeta Gráfica de 128 bits 7680 x 4320 18 Gbps, tarjeta gráfica ",
+    "precio": "279.99",
+    "precioOriginal": "359.99",
+    "imagen": "https://m.media-amazon.com/images/I/612GZBgV5TL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4bCnvsY",
+    "categoria": "clase-gamer"
+  },
+  {
+    "id": 68,
+    "nombre": "MSI Gaming RTX 3050 Ventus 2X 6G OC Tarjeta gráfica (NVIDIA RTX 3050, 96-Bit, Velocidad de Reloj de Impulso: 1492 MHz, 6GB GDDR6 14 Gbps, HDMI/DP, Arquitectura Ampere) ",
+    "precio": "209.99",
+    "precioOriginal": "219.99",
+    "imagen": "https://m.media-amazon.com/images/I/81GGSRNirgL._AC_SX466_.jpg",
+    "link": "https://amzn.to/4bFMmfj",
+    "categoria": "clase-gamer"
+  },
+
 
 
 
@@ -742,8 +843,159 @@
     "link": "https://s.click.aliexpress.com/e/_c39yPnK7",
     "categoria": "clase-tech",
     "tienda": "aliexpress"
+  } ,
+   {
+    "id": 1023,
+    "nombre": "GPU VGA Cooler With Shell,Graphics Card Fans For Palit RTX 3060 3060Ti Dual OC V1,For Palit RTX 3050 Dual OC,FD9015U12S tarjeta gráfica",
+    "precio": "11.21",
+    "precioOriginal": "21.99",
+    "imagen": "https://ae01.alicdn.com/kf/S1def531b66a44869a5946e011d4e314dN.jpg",
+    "link": "https://s.click.aliexpress.com/e/_c3SuTFHN",
+    "categoria": "clase-tech",
+    "tienda": "aliexpress"
+  } 
+,
+   {
+    "id": 1024,
+    "nombre": "Abovetop RTX A2000 8GB GDDR6 Low Profile Single Slot Graphics Card, 2560SP, ECC Memory, DLSS, 1687MHz Boost, Blade GPU for 2K Ga, tarjeta gráfica",
+    "precio": "364.71",
+    "precioOriginal": "00.00",
+    "imagen": "https://c1.neweggimages.com/productimage/nb640/C0RRS2507010EB2XPC0.jpg",
+    "link": "https://s.click.aliexpress.com/e/_c4m7QDZN",
+    "categoria": "clase-tech",
+    "tienda": "aliexpress"
+  } 
+,
+   {
+    "id": 1025,
+    "nombre": "Premium 8GB GDDR5 Graphics Card 256bit Support DVI D 2 DP Interface 2 HD Multimedia Interface Gaming Graphics Card with 2 Fans, tarjeta gráfica",
+    "precio": "127.80",
+    "precioOriginal": "202.85",
+    "imagen": "https://ae01.alicdn.com/kf/Se9c71e08e26c46bd85961a144b948e1aK.jpg_960x960.jpg",
+    "link": "https://s.click.aliexpress.com/e/_c3fRuid1",
+    "categoria": "clase-tech",
+    "tienda": "aliexpress"
+  } 
+,
+   {
+    "id": 1026,
+    "nombre": " ASROCK AMD Radeon RX 6700XT Challenger D 12GB GDDR6 192-bit 16 Gbps 7nm 6700XT, tarjeta gráfica",
+    "precio": "299.00",
+    "precioOriginal": "00.00",
+    "imagen": "https://m.media-amazon.com/images/I/617a9vP7giL._AC_UF894,1000_QL80_.jpg",
+    "link": "https://s.click.aliexpress.com/e/_c3N3ceUR",
+    "categoria": "clase-tech",
+    "tienda": "aliexpress"
+  } 
+,
+   {
+    "id": 1027,
+    "nombre": "GT730 4GB Video Card 64Bit DDR3 With HDMI VGA DVI Port Nvidia Graphics Card PCIE X16 2.0 GT730 GPU Desktop Computer, tarjeta gráfica",
+    "precio": "39.90",
+    "precioOriginal": "53.20",
+    "imagen": "https://ae01.alicdn.com/kf/S8260552f7b2b473ba7cdb5f69aceba562.jpg_960x960.jpg",
+    "link": "https://s.click.aliexpress.com/e/_c39yPnK7",
+    "categoria": "clase-tech",
+    "tienda": "aliexpress"
+  } 
+,
+   {
+    "id": 1028,
+    "nombre": "ASRock RX 6800XT PG D 16G OC AMD Radeon RX6800XT Graphics Board 16GB, tarjeta gráfica",
+    "precio": "459.00",
+    "precioOriginal": "00.00",
+    "imagen": "https://m.media-amazon.com/images/I/71ZaqmoLtPL.jpg",
+    "link": "https://s.click.aliexpress.com/e/_c3kp4Py7",
+    "categoria": "clase-tech",
+    "tienda": "aliexpress"
+  } 
+,
+   {
+    "id": 1029,
+    "nombre": "New RX580 Graphics Card Dual Cooling Fan 8GB GDDR5 256Bit Efficient Heat Dissipation Low Noise Memory Video Gaming Card, tarjeta gráfica",
+    "precio": "111.98",
+    "precioOriginal": "172.28",
+    "imagen": "https://ae01.alicdn.com/kf/S4841be87111948e59efd2ff934040e3bT.jpg",
+    "link": "https://s.click.aliexpress.com/e/_c3OBKozv",
+    "categoria": "clase-tech",
+    "tienda": "aliexpress"
+  } 
+,
+   {
+    "id": 1030,
+    "nombre": "VEINEDA gtx 1060 6g Graphics Cards 1506MHz 192Bit GDDR5 GTX1060 Video Card Refurbished Cards 1050ti gtx960 4gb, tarjeta gráfica",
+    "precio": "137.00",
+    "precioOriginal": "172.50",
+    "imagen": "https://down-id.img.susercontent.com/file/sg-11134201-8260g-mkvxrfc3qd51b9",
+    "link": "https://s.click.aliexpress.com/e/_c36RqkyB",
+    "categoria": "clase-tech",
+    "tienda": "aliexpress"
+  } 
+,
+   {
+    "id": 1031,
+    "nombre": "SongryVGA GTX 1050/1050 Ti 4GB Gaming Graphics Card,GDDR5 128-Bit PCIe 3.0 x16 Ready Video Card with HDMI/DP/DVI Output Ports, tarjeta gráfica",
+    "precio": "105.28",
+    "precioOriginal": "250.67",
+    "imagen": "https://ae01.alicdn.com/kf/S1b8686add0164fecb68e2a1b824568b8w.jpg",
+    "link": "https://s.click.aliexpress.com/e/_c39z8niJ",
+    "categoria": "clase-tech",
+    "tienda": "aliexpress"
+  } 
+,
+   {
+    "id": 1032,
+    "nombre": "SongryVGA Geforce RTX 3050 6GB Low Profile Graphics Card,GDDR6 96 Bits PCIe 4.0 X16 SFF GPU Dual Screen Support, tarjeta gráfica",
+    "precio": "295.98",
+    "precioOriginal": "538.51",
+    "imagen": "https://c1.neweggimages.com/productimage/nb640/C0JHS2512200E4A2H67.jpg",
+    "link": "https://s.click.aliexpress.com/e/",
+    "categoria": "clase-tech",
+    "tienda": "aliexpress"
   } 
 
+
+
+
+
+
+
+
+
+  ,
+   {
+    "id": 2001,
+    "nombre": "Almohada de viaje Ergonomica",
+    "precio": "16.99",
+    "precioOrigina":"18.99",      
+    "imagen": "https://m.media-amazon.com/images/I/51T8rKHaPNL._AC_.jpg",
+    "link": "https://amzn.to/4uIJBmf",
+    "categoria": "clase-viaje"
+
+  } 
+
+  ,
+   {
+    "id": 2002,
+    "nombre": "ANKHOH Cargador: Power Bank ultra slim- 10,000 mAh",
+    "precio": "14.99",
+    "precioOriginal": "00.00",
+    "imagen": "https://m.media-amazon.com/images/I/81RCCb6t0fL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4lIUnVr",
+    "categoria": "clase-viaje"
+
+  } 
+ ,
+   {
+    "id": 2003,
+    "nombre": "Audifonos Cubitt Power con ANC Híbrido , Edición Viaje",
+    "precio": "49.95",
+    "precioOriginal": "00.00",
+    "imagen": "https://m.media-amazon.com/images/I/51PIKZfGB-L._AC_SX679_.jpg",
+    "link": "https://amzn.to/4bVBf38",
+    "categoria": "clase-viaje"
+
+  } 
 
 
   
